@@ -10,16 +10,16 @@ const Navbar = () => {
             HOME
           </Link>
           <Link className="navbar__link relative" href="#">
-            CATEGORIES
+            CATEGORIAS
           </Link>
           <Link className="navbar__link relative" href="#">
-            {`MEN'S`}
+            {`FEMININO`}
           </Link>
           <Link className="navbar__link relative" href="#">
-            {`WOMEN'S`}
+            {`MASCULINO`}
           </Link>
           <Link className="navbar__link relative" href="#">
-            JEWELRY
+            JÓIAS
           </Link>
           <Link className="navbar__link relative" href="#">
             PERFUME
@@ -28,7 +28,7 @@ const Navbar = () => {
             BLOG
           </Link>
           <Link className="navbar__link relative" href="#">
-            HOT OFFERS
+            OFERTAS
           </Link>
         </div>
       </div>
